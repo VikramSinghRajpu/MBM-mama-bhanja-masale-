@@ -1,0 +1,258 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MBM Mama Bhanja Masale</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: linear-gradient(to right, red, yellow, green);
+      padding: 20px;
+      color: white;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #f2f2f2;
+    }
+    nav a {
+      padding: 14px 20px;
+      text-decoration: none;
+      color: black;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+    .product {
+      margin-bottom: 30px;
+    }
+    .product img {
+      max-width: 200px;
+      height: auto;
+      display: block;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MBM Mama Bhanja Masale</h1>
+    <p>Shuddhata ka Swad | Taste of Purity</p>
+  </header>  <nav>
+    <a href="#home">Home</a>
+    <a href="#products">Products</a>
+    <a href="#testimonials">Testimonials</a>
+    <a href="#contact">Contact</a>
+  </nav>  <section id="home">
+    <h2>Welcome | स्वागत है</h2>
+    <p>Discover the authentic flavors of India with MBM Mama Bhanja Masale. | MBM मामा भांजा मसाले के साथ भारत के असली स्वाद का अनुभव करें।</p>
+  </section>  <section id="products">
+    <h2>Our Products | हमारे उत्पाद</h2><div class="product">
+  <img src="/mnt/data/file-RT4rSAZ8L7a6nWqbx2xC1Y" alt="Dhaniya Powder">
+  <p><strong>Dhaniya Powder (200g)</strong><br>Price: ₹53</p>
+</div>
+
+<div class="product">
+  <img src="/mnt/data/file-8hhDeYWUZkxD1oV6bT6mun" alt="Chilli Powder">
+  <p><strong>Chilli Powder (200g)</strong><br>Price: ₹92</p>
+</div>
+
+<div class="product">
+  <img src="/mnt/data/file-CAT5oajVHfQEjdGgWLrVD3" alt="Haldi Powder">
+  <p><strong>Haldi (Turmeric) Powder (200g)</strong><br>Price: ₹63</p>
+</div>
+
+  </section>  <section id="testimonials">
+    <h2>Customer Testimonials | ग्राहक समीक्षा</h2>
+    <p>"Great quality masalas!" - A Happy Customer</p>
+  </section>  <section id="contact">
+    <h2>Contact Us | संपर्क करें</h2>
+    <form>
+      <label>Name / नाम:</label><br>
+      <input type="text" name="name" required><br><br>
+      <label>Email / ईमेल:</label><br>
+      <input type="email" name="email" required><br><br>
+      <label>Message / संदेश:</label><br>
+      <textarea name="message" required></textarea><br><br>
+      <button type="submit">Send / भेजें</button>
+    </form>
+  </section>  <footer>
+    <p>&copy; 2025 MBM Mama Bhanja Masale. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MBM Mama Bhanja Masale</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: linear-gradient(to right, red, yellow, green);
+      padding: 20px;
+      color: white;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #f2f2f2;
+    }
+    nav a {
+      padding: 14px 20px;
+      text-decoration: none;
+      color: black;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+    .product {
+      margin-bottom: 30px;
+    }
+    .product img {
+      max-width: 200px;
+      height: auto;
+      display: block;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MBM Mama Bhanja Masale</h1>
+    <p>Shuddhata ka Swad | Taste of Purity</p>
+  </header>  <nav>
+    <a href="#home">Home</a>
+    <a href="#products">Products</a>
+    <a href="#testimonials">Testimonials</a>
+    <a href="#contact">Contact</a>
+  </nav>  <section id="home">
+    <h2>Welcome | स्वागत है</h2>
+    <p>Discover the authentic flavors of India with MBM Mama Bhanja Masale. | MBM मामा भांजा मसाले के साथ भारत के असली स्वाद का अनुभव करें।</p>
+  </section>  <section id="products">
+    <h2>Our Products | हमारे उत्पाद</h2><div class="product">
+  <img src="/mnt/data/file-RT4rSAZ8L7a6nWqbx2xC1Y" alt="Dhaniya Powder">
+  <p><strong>Dhaniya Powder (200g)</strong><br>Price: ₹53</p>
+</div>
+
+<div class="product">
+  <img src="/mnt/data/file-8hhDeYWUZkxD1oV6bT6mun" alt="Chilli Powder">
+  <p><strong>Chilli Powder (200g)</strong><br>Price: ₹92</p>
+</div>
+
+<div class="product">
+  <img src="/mnt/data/file-CAT5oajVHfQEjdGgWLrVD3" alt="Haldi Powder">
+  <p><strong>Haldi (Turmeric) Powder (200g)</strong><br>Price: ₹63</p>
+</div>
+
+  </section>  <section id="testimonials">
+    <h2>Customer Testimonials | ग्राहक समीक्षा</h2>
+    <p>"Great quality masalas!" - A Happy Customer</p>
+  </section>  <section id="contact">
+    <h2>Contact Us | संपर्क करें</h2>
+    <form>
+      <label>Name / नाम:</label><br>
+      <input type="text" name="name" required><br><br>
+      <label>Email / ईमेल:</label><br>
+      <input type="email" name="email" required><br><br>
+      <label>Message / संदेश:</label><br>
+      <textarea name="message" required></textarea><br><br>
+      <button type="submit">Send / भेजें</button>
+    </form>
+  </section>  <footer>
+    <p>&copy; 2025 MBM Mama Bhanja Masale. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html><html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MBM Mama Bhanja Masale</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; background: #fff; color: #222; }
+    header { background: #d32f2f; color: white; padding: 1rem; text-align: center; }
+    nav a { margin: 0 1rem; color: white; text-decoration: none; }
+    section { padding: 2rem; }
+    .products { display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; }
+    .product { border: 1px solid #ddd; border-radius: 8px; padding: 1rem; width: 200px; text-align: center; }
+    .product img { width: 100%; height: auto; border-radius: 6px; }
+    footer { background: #2e7d32; color: white; text-align: center; padding: 1rem; }
+    .contact-form input, .contact-form textarea { width: 100%; padding: 0.5rem; margin-top: 0.5rem; }
+    .contact-form button { padding: 0.5rem 1rem; background: #388e3c; color: white; border: none; margin-top: 1rem; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="MBM Logo" style="height: 80px;"><br>
+    <h1>MBM Mama Bhanja Masale</h1>
+    <nav>
+      <a href="#products">प्रोडक्ट्स</a>
+      <a href="#reviews">समीक्षा</a>
+      <a href="#contact">संपर्क करें</a>
+    </nav>
+  </header>  <section id="products">
+    <h2>हमारे मसाले</h2>
+    <div class="products">
+      <div class="product">
+        <img src="dhania.jpg" alt="Dhaniya Powder">
+        <h3>MBM Dhaniya Powder</h3>
+        <p>200g - ₹53</p>
+        <a href="https://wa.me/91XXXXXXXXXX?text=मैं%20Dhaniya%20Powder%20चाहता%20हूं" target="_blank">WhatsApp Order</a>
+      </div>
+      <div class="product">
+        <img src="mirchi.jpg" alt="Chilli Powder">
+        <h3>MBM Chilli Powder</h3>
+        <p>200g - ₹92</p>
+        <a href="https://wa.me/91XXXXXXXXXX?text=मैं%20Chilli%20Powder%20चाहता%20हूं" target="_blank">WhatsApp Order</a>
+      </div>
+      <div class="product">
+        <img src="haldi.jpg" alt="Haldi Powder">
+        <h3>MBM Haldi Powder</h3>
+        <p>200g - ₹63</p>
+        <a href="https://wa.me/91XXXXXXXXXX?text=मैं%20Haldi%20Powder%20चाहता%20हूं" target="_blank">WhatsApp Order</a>
+      </div>
+    </div>
+  </section>  <section id="reviews">
+    <h2>ग्राहक समीक्षा</h2>
+    <p>"MBM मसाले से खाना और भी स्वादिष्ट बनता है!" - संतोष यादव</p>
+    <p>"100% शुद्ध और घरेलू स्वाद!" - सीमा देवी</p>
+  </section>  <section id="contact">
+    <h2>संपर्क करें</h2>
+    <form class="contact-form">
+      <input type="text" placeholder="नाम">
+      <input type="email" placeholder="ईमेल">
+      <textarea placeholder="आपका सन्देश"></textarea>
+      <button type="submit">भेजें</button>
+    </form>
+  </section>  <footer>
+    <p>स्थान: वाराणसी, उत्तर प्रदेश</p>
+    <p>Instagram | Facebook | WhatsApp</p>
+    <p>&copy; 2025 MBM Mama Bhanja Masale</p>
+  </footer>
+</body>
+</html>
